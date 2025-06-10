@@ -22,10 +22,6 @@ Welcome to my portfolio! I'm a hands-on developer with a passion for building in
 - Reproduced and enhanced methodology from SLRT paper  
 - Integrated textual knowledge into visual recognition for low-shot learning
 
-###  MLP-Based Explanation Quality Evaluator  
-> *Scikit-learn, PyTorch, ML-32M Dataset*  
-- Designed a custom MLP to assess recommendation explanation quality  
-- Benchmarked against baselines from academic recommender system repo
 
 ---
 
@@ -38,15 +34,6 @@ Welcome to my portfolio! I'm a hands-on developer with a passion for building in
 - LLM response generation using Mistral API  
 - Voice and web interface with speech-to-text and TTS
 
-###  Silent Systems – GPT Automation Backend
-> *Python, GPT-4 API, Prompt Engineering*  
-- Created automation backend for summarizing documents, parsing text, and value extraction  
-- Built modular GPT-powered workflows for internal tools and microservices
-
-###  Telegram Chatbot – 8-Week Shred Program  
-> *Python, Flask, Telegram API*  
-- Interactive fitness bot that reads PDF plans, calculates BMI, tracks goals  
-- Integrated via Telegram webhook with persistent storage
 
 ###  Alexa Skill – Conversational Fitness Assistant  
 > *Node.js, ASK SDK, Amazon Polly, APL*  
@@ -69,6 +56,12 @@ Welcome to my portfolio! I'm a hands-on developer with a passion for building in
 - Performed sentiment analysis and classification  
 - Visualized insights via Power BI dashboard
 
+###  Game Recommender System with Sentiment Filtering  
+> *Flask, NLTK, Twitter API, Kaggle Reviews*  
+- Scraped and filtered reviews  
+- Used sentiment + content filtering to make recommendations  
+- Simple Flask UI for query and response
+
 ---
 
 ##  Full-Stack & Frontend Engineering
@@ -84,11 +77,6 @@ Welcome to my portfolio! I'm a hands-on developer with a passion for building in
 - Admin-uploaded files shared globally, user files kept private  
 - Automatic vector store update logic using hash comparison
 
-###  Game Recommender System with Sentiment Filtering  
-> *Flask, NLTK, Twitter API, Kaggle Reviews*  
-- Scraped and filtered reviews  
-- Used sentiment + content filtering to make recommendations  
-- Simple Flask UI for query and response
 
 ---
 
